@@ -40,7 +40,7 @@
     "Python.forlessonOG30.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "part-cycle-code",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/user/Documents/PYTHON/LESSON-OG03/LESSONOG03/IMG",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729681526180</updated>
       <workItem from="1729681527320" duration="1321000" />
-      <workItem from="1729683116724" duration="366000" />
+      <workItem from="1729683116724" duration="941000" />
     </task>
     <servers />
   </component>
@@ -81,5 +81,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/LESSONOG03$forlessonOG03.coverage" NAME="forlessonOG03 Coverage Results" MODIFIED="1729682876966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LESSONOG03$forlessonOG30.coverage" NAME="forlessonOG30 Coverage Results" MODIFIED="1729683379729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
