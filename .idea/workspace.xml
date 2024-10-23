@@ -25,9 +25,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2npsoDvZS1CsD3FW6hPHZ312Isy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,8 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Python.forlessonOG03.executor": "Run",
+    "Python.forlessonOG30.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "part-cycle-code",
     "last_opened_file_path": "C:/Users/user/Documents/PYTHON/LESSON-OG03/LESSONOG03/IMG",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729681526180</updated>
       <workItem from="1729681527320" duration="1321000" />
+      <workItem from="1729683116724" duration="366000" />
     </task>
     <servers />
   </component>
